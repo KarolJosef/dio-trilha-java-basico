@@ -36,7 +36,7 @@ public class ContaTerminal {
         conta.agencia + " conta "+ conta.numero + " e seu saldo de "+ conta.saldo + " ja esá disponível para saldo.");
       }
       catch(InputMismatchException e){
-        System.out.println("Os campos número, agencia e saldo pcisam ser numericos" + e);
+        System.out.println("Os campos número, agencia e saldo pcisam ser numericos" + e.getLocalizedMessage());
       }
 
     }
