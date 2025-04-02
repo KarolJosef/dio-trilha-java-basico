@@ -1,2 +1,2 @@
 ## Desafios trilha java básico
-## Esse contém repositório contem todos os desafios do curso Java Básico.
+## Esse repositório contem todos os desafios do curso Java Básico.
