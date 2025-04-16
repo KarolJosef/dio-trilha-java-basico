@@ -13,6 +13,7 @@ public class ContaTerminal {
      String nomeCliente;
      double saldo;
 
+     @SuppressWarnings("ConvertToTryWithResources")
     public static void main(String[] args) throws Exception {     
       try{
         ContaTerminal conta = new ContaTerminal();
